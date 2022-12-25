@@ -1,4 +1,4 @@
-#  Analysis of Time-Series Data Predictions using Weather Data
+#  Time-Series Data Predictions analysis using Weather Data
 
 
 ## Introduction
